@@ -27,3 +27,4 @@ out/
 
 # Intelij config files
 .idea/
+*.iml
